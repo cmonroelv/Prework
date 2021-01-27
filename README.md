@@ -28,9 +28,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=ezgif.com-gif-maker.gif title='Calculator Gif' alkthrough' width='' alt='Video Walkthrough' />
+<img src='ezgif.com-gif-maker.gif' title='Calculator Gif' alkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [ezgif](http://www.ezgif.com).
 
 ## Notes
 
@@ -38,7 +38,7 @@ It was challenging to link elements from the main storyboard to the controller.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
