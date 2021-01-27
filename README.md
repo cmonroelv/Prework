@@ -30,7 +30,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/Sx53kIhN2AVFdVVVqG/giphy.gif' title='Calculator Gif walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [ezgif](http://www.ezgif.com).
+GIF created with [giphy](giphy.com).
 
 ## Notes
 
