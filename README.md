@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/Sx53kIhN2AVFdVVVqG/giphy.gif' title='Calculator Gif' alkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/Sx53klhN2AVFdVVVqG/giphy.gif' title='Calculator Gif walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [ezgif](http://www.ezgif.com).
 
